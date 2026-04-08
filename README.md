@@ -75,5 +75,5 @@ We manage **Key Man Risk** and **Inflation** through sophisticated on-chain gove
 ---
 
 ### **Contact & Contribution**
-* **Twitter/X:** [@Earthspan](https://x.com/EarthspanHQ)
+* **Twitter/X:** [@EarthspanHQ](https://x.com/EarthspanHQ)
 * **Proton Mail:** [earthspan@proton.me](mailto:earthspan@proton.me)
