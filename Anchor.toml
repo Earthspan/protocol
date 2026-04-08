@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-upra_protocol = "BeBdUnX84ibxLAdhsz9snDTnmm54CBViBpcHtE4PeqHY"
+earthspan_protocol = "BeBdUnX84ibxLAdhsz9snDTnmm54CBViBpcHtE4PeqHY"
 
 [registry]
 url = "https://api.apr.dev"

@@ -3,7 +3,7 @@ use anchor_lang::prelude::*;
 declare_id!("BeBdUnX84ibxLAdhsz9snDTnmm54CBViBpcHtE4PeqHY");
 
 #[program]
-pub mod upra_protocol {
+pub mod earthspan_protocol {
     use super::*;
 
     pub fn initialize(ctx: Context<Initialize>) -> Result<()> {

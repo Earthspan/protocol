@@ -1,12 +1,12 @@
 [package]
-name = "upra-protocol"
+name = "earthspan-protocol"
 version = "0.1.0"
 description = "Created with Anchor"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "upra_protocol"
+name = "earthspan_protocol"
 
 [features]
 default = []
