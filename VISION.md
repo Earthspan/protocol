@@ -1,12 +1,15 @@
-# $UPRA: The Programmable Earth Engine
+# 🌍 Earthspan: The Programmable Earth Engine
 
-## The Problem
-Environmental projects suffer from "Capital Leakage." Funds intended for the ground are lost in administrative layers, and investors have no real-time link to impact.
+## 🔴 The Problem: "Capital Leakage"
+Current environmental projects suffer from severe inefficiency. Funds intended for the ground are lost in layers of administration, and investors lack a real-time, verifiable link to their impact.
 
-## The $UPRA Solution
-A dual-token ecosystem built on Solana Token Extensions (Token-2022).
-1. **$UPRA (The Liquid Asset):** A tradeable, yield-bearing token for institutional investors.
-2. **Transfer Hook (The Payout Engine):** A hard-coded 1% royalty on all secondary trades, teleported directly to verified Burwa Bosses.
+## 🟢 The Earthspan Solution
+A sophisticated RWA ecosystem built on **Solana Token Extensions (Token-2022)**.
 
-## Success Metric
-By the end of the Frontier Hackathon, $UPRA will demonstrate the first "Atomic Payout"—where a trade in London triggers a verified payment to a shovel in the dirt, with zero intermediaries.
+* **Liquid Assets:** Tradeable, institutional-grade tokens representing verified environmental recovery.
+* **The Payout Engine (Transfer Hook):** A hard-coded 1% royalty on all secondary trades, programmatically "teleported" directly to verified **Burwa Bosses** in the field.
+
+## 🎯 The Success Metric: The "Atomic Payout"
+By the end of the **2026 Solana Frontier Hackathon**, Earthspan will demonstrate the first **Atomic Payout**: 
+
+> A high-frequency trade in a global financial hub triggers a verified, near-instant payment to a worker on the ground, with zero intermediaries and 100% transparency.
